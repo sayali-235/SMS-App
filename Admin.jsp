@@ -31,7 +31,7 @@
 				String un=request.getParameter("un");
 				String pw=request.getParameter("pw");
 		
-			if(un.equals("Kamalsir") && pw.equals("Kamal@123"))
+			if(un.equals("Kamalsir") && pw.equals("Kamalsir@123"))
 		
 				{
 					out.println("Login Successfully");
